@@ -31,3 +31,4 @@
 build/*
 CMakeFiles/*
 test/test_hello.dir/*
+bin/*
