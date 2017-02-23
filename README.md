@@ -1,1 +1,1 @@
-https://travis-ci.org/myzikdev/hello.svg?branch=master
+[![Build Status](https://travis-ci.org/myzikdev/hello.svg?branch=master)](https://travis-ci.org/myzikdev/hello)
