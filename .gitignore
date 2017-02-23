@@ -29,3 +29,5 @@
 *.app
 
 build/*
+CMakeFiles/*
+test/test_hello.dir/*
